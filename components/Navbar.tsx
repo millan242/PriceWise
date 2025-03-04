@@ -29,8 +29,8 @@ const Navbar = () => {
                             key={icon.alt}
                             src={icon.src}
                             alt={icon.alt}
-                            width={27}
-                            height={27}
+                            width={24}
+                            height={24}
                             className='object-contain'
                         />
                     ))}
